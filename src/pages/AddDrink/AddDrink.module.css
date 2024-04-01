@@ -1,0 +1,30 @@
+.form {
+  margin: auto;
+  display: flex;
+  width: 600px;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.field {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.input {
+  border-radius: 5px;
+  border: solid 1px rgb(202, 202, 202);
+  padding: 10px 5px;
+}
+.button {
+  width: 150px;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.errorMessage {
+  color: red;
+}

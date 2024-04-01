@@ -1,0 +1,16 @@
+.header {
+  margin-bottom: 40px;
+}
+.drinksList {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 15px;
+}
+.input {
+  border-radius: 5px;
+  border: solid 1px rgb(202, 202, 202);
+  padding: 10px 5px;
+}
+.drink img {
+  border-radius: 5px;
+}

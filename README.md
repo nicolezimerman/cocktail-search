@@ -10,8 +10,13 @@ Project Overview: You are tasked with building a web application using React tha
 ## Features to Implement:
 
 [x] 1. Navigation of Images: Create a navigation feature that allows users to browse through cocktail images. Display a grid or carousel of cocktail images that users can click (open recipe display) or swipe through.
-[] 2. Search Functionality: Implement a search bar that enables users to search for cocktails by name. Use the provided search sample endpoint to fetch and display search results dynamically.
-[] 3. Recipes Display: When a user selects a cocktail from the navigation or search results, display the recipe details for that cocktail. Include ingredients, instructions, and any additional information available from the API. 4. Saving New Drinks: Add a form component that allows users to input details for new drinks, including name, ingredients, instructions, and optional image upload. Implement functionality to validate and submit the form data. Upon submission, save the new drink data to a JSON file, Include error handling and success messages for the submission process.
+[x] 2. Search Functionality: Implement a search bar that enables users to search for cocktails by name.
+Use the provided search sample endpoint to fetch and display search results dynamically.
+
+[x] 3. Recipes Display: When a user selects a cocktail from the navigation or search results, display the recipe details for that cocktail.
+Include ingredients, instructions, and any additional information available from the API.
+
+[x] 4. Saving New Drinks: Add a form component that allows users to input details for new drinks, including name, ingredients, instructions, and optional image upload. Implement functionality to validate and submit the form data. Upon submission, save the new drink data to a JSON file, Include error handling and success messages for the submission process.
 
 ## Requirements:
 
